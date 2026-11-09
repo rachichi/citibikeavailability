@@ -1,5 +1,6 @@
 # modeling stuff
 /202608-citibike-tripdata/
+/clean-202608-citibike-tripdata/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
@@ -221,4 +222,3 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
-
