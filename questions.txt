@@ -1,0 +1,2 @@
+These are questions for Omar
+1. Are we supposed to remove the outliers? Like 00:00 - 04:00 AM? 
